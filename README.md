@@ -102,6 +102,12 @@ Group G1-03 | CS-116 OOP | Spring 2026 | NED University
 | CS-25017 | Zehra Baig |
 | CS-25018 | Abeer Ahmed |
 
+## Project Report
+
+The detailed project report for this Library Management System is included below.
+
+[Download Report](Report(G1-3).pdf)
+
 ## UML Diagram
 
 ![UML Diagram](UML.png)
