@@ -1,0 +1,13 @@
+OR-1,Programming in Python,Guido van Rossum,1,Technology,Unknown,1,1,2024
+OR-2,Web Development Fundamentals,Brad Traversy,1,Technology,Unknown,5,2,2024
+OR-3,Machine Learning Basics,Andrew Ng,0,Science,Unknown,10,3,2024
+OR-4,Data Science with R,Hadley Wickham,1,Science,Unknown,15,1,2024
+OR-5,JavaScript Advanced,Kyle Simpson,1,Technology,Unknown,8,4,2024
+OR-7,Digital Marketing Essentials,Neil Patel,1,Unknown,Unknown,12,2,2024
+OR-8,UX Design Principles,Don Norman,1,Unknown,Unknown,18,6,2024
+OR-9,Cybersecurity Fundamentals,Udacity Staff,1,Technology,Unknown,3,7,2024
+OR-10,Business Analytics,Edward Tufte,1,Unknown,Unknown,25,3,2024
+OR-11,Artificial Intelligence Ethics,Timnit Gebru,1,Technology,Unknown,9,8,2024
+OR-12,Content Marketing Strategy,Gary Vaynerchuk,1,Unknown,Unknown,14,4,2024
+OR-13,Programming Fundamentals,Alexander,1,Science,Book,3,6,2018
+OR-15,OOP Workbook,Ms Tehreem Khan,1,Literature,Book,16,5,2026

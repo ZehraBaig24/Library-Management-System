@@ -1,0 +1,13 @@
+1,ahmed_khan,123456,Ahmed,Sohail,Shahrah-e-Faisal Karachi,6250
+2,fatima_ali,789567,Fatima,Ahmed,456 Mall Road Lahore,12100.5
+3,m_habib,345678,Muhammad,Habib,789 Blue Area Islamabad,3200.25
+4,aisha_hassan,456789,Aisha,Hassan,321 Clifton Road Karachi,8900
+5,hassan_malik,567890,Hassan,Malik,654 Defence Road Lahore,4500.75
+6,zainab_ahmed,678901,Zainab,Ahmed,987 F-7 Markaz Islamabad,6200
+7,bilal_khan,789012,Bilal,Khan,147 Saddar Bazaar Karachi,5300.5
+8,hira_saeed,890123,Hira,Saeed,258 Gulberg Lahore,7100
+9,ali_raza,901234,Ali,Raza,369 G-7 Sector Islamabad,4800.25
+10,sana_iqbal,012345,Sana,Iqbal,741 Defence Phase Karachi,6700
+11,imran_shahid,111111,Imran,Shahid,852 Garden Town Lahore,5900.5
+12,nida_farooq,222222,Nida,Farooq,963 F-6 Sector Islamabad,6700
+13,A,abeer1,Abeer,Ahmed,House 908,133403
