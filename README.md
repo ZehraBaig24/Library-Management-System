@@ -104,7 +104,7 @@ Group G1-03 | CS-116 OOP | Spring 2026 | NED University
 
 ## Project Report
 
-The detailed project report for this Library Management System is included below.
+Download the project report from the link below:
 
 [Download Report](Report%20(G1-3).pdf)
 
