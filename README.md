@@ -106,7 +106,7 @@ Group G1-03 | CS-116 OOP | Spring 2026 | NED University
 
 The detailed project report for this Library Management System is included below.
 
-[Download Report](Report(G1-3).pdf)
+[Download Report](Report%20(G1-3).pdf)
 
 ## UML Diagram
 
